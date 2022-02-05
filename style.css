@@ -1,0 +1,139 @@
+@import url('http://www.monotype.com/html/mtname/ms_welcome.html');
+
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial Black';
+}
+
+
+.logo{
+    left: 3px;
+}
+.twitte{
+   position: absolute;
+    margin-top: 4px;
+    left: 290px;
+}
+.discord{
+    position: absolute;
+     margin-top: 4px;
+     left: 340px;
+}
+ 
+
+.twitte img:hover{
+    
+    color:#79c3ee(0%);
+    
+}
+
+
+
+.Next{
+    margin-top:6px ;
+    left: 50px;
+    list-style:none;
+
+    position: absolute;
+    color: #FFF;
+
+    font-size: 30px;
+}
+
+#menu-h{
+    background-color: 
+}
+
+.nav{
+    display: flex;
+    justify-content;
+    align-items: center;
+}
+
+
+#menu-h ul {
+    margin-top: 6px auto;
+    display: absolute;
+    list-style: none;
+    padding: 0;
+    
+}
+
+#menu-h ul li {
+    margin-top: 6px auto;
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .4s;
+  
+}
+
+#menu-h ul li a:hover {
+    color: #dfa932
+}
+
+#menu-h ul li a:hover {
+    
+    color: #dfa932
+}
+
+.icone_inicio {
+    color: #dfa932 ;
+}
+
+
+
+
+
+#discord{position:relative}
+#discord:hover{top:-2px;border-bottom:2px solid #999}
+#twitter{position:relative}
+#twitter:hover{accent-color:  ;  top:-2px;border-bottom:2px solid #999}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+article {
+    min-height: 100%;
+    display: flex;
+    
+    align-items: stretch;
+}
+
+main {
+    flex-grow: 1;
+}
+
+header, main, footer {
+    flex-shrink: 0;
+}
+
+.rodape{
+    align-items: center;
+    max-height: 30%;
+    max-width: 99%;
+    margin: 0;
+    margin-block-end: 10px;
+    margin-left: 5px;
+    color: white;
+    text-align:justify;
+    background-color:  #272727;
+}
+
+
+.copy{
+    color:white ;
+    background-color:#181919 ;
+}
+
+
+
