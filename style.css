@@ -1,6 +1,7 @@
 @import url('http://www.monotype.com/html/mtname/ms_welcome.html');
 
 * {
+     background-color:black;
     margin: 0 auto;
     padding: 0;
     box-sizing: border-box;
